@@ -8,6 +8,7 @@ authors:
   - Audun Bredal Halvorsen
 tags:
   - Regelverk
+  - Etikk
 created: 2023-05-04 12:27:42
 updated: 2023-05-04 12:27:44
 ---
