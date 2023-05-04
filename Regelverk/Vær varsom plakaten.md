@@ -14,7 +14,7 @@ updated: 2023-05-04 12:48:22
 ![[vvp-plakat.png]]
 
 ## Hva og hvorfor?
-Vær-Varsom-plakaten er en liste over selvpålagte normer for trykt presse, fjernsyn, radio og nettpublikasjoner i Norge. Den ble opprettet i 1936 og har siden blitt revidert med jevne mellom rom for å tilpasse seg medie, - og samfunnsutviklingen. Hensikten med plakaten er å skape tillit til pressen blant folket ved at pressen selv pålegger seg tydelige prinsipper og en høy moralstandard som de forplikter seg til å følge.
+Vær-Varsom-plakaten er en liste over selvpålagte normer for trykt presse, fjernsyn, radio og nettpublikasjoner i Norge. Den ble opprettet i 1936 og har siden blitt revidert med jevne mellomrom for å tilpasse seg medie, - og samfunnsutviklingen. Hensikten med plakaten er å skape tillit til pressen blant folket ved at pressen selv pålegger seg tydelige prinsipper og en høy moralstandard som de forplikter seg til å følge.
 
 ## Håndheving og konsekvenser
 ![[pfu-logo.png]]
