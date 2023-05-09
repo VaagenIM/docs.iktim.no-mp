@@ -8,7 +8,7 @@ authors:
 tags:
   - Lovverk
 created: 2023-05-03 10:35:09
-updated: 2023-05-04 12:48:22
+updated: 2023-05-05 13:32:47
 ---
 # Vær varsom plakaten
 ![[vvp-plakat.png]]
